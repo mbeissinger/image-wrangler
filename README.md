@@ -1,3 +1,5 @@
+# Please note - project has moved here: https://github.com/lobe/image-tools
+
 # Image Wrangler: tools for creating image datasets
 Image Wrangler helps you form machine learning datasets for image classification.
 
